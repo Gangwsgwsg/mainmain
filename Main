@@ -2,7 +2,7 @@ local placeId = game.PlaceId
 
 if placeId == 17738975314 then
     -- Philly Street Script
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/oz490/Philly-Street-Script/refs/heads/main/Philly%20Street%20Script%20ClicksFarm"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Phillygay/refs/heads/main/Gaylo"))()
 elseif placeId == 13643807539 or placeId == 14413475235 then
     -- South Bronx Script 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Southgay/refs/heads/main/Gay"))()
