@@ -9,11 +9,15 @@ elseif placeId == 13643807539 or placeId == 14413475235 then
 elseif placeId == 17306807164 then
 -- no Mercy script 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Nomercylikegay/refs/heads/main/Wsgwsg"))()
+   -- tha bronx script 
+elseif placeId == 9874911474 then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Tha-Bronx-2/refs/heads/main/Tha%20Bronx%20chatgpt%20ahh%20code"))()
+    
 else
     
     game.StarterGui:SetCore("SendNotification", {
         Title = "Game Check";
         Text = "FALSE GAME";
-        Duration = 6; -- Zeit in Sekunden, die die Benachrichtigung angezeigt wird
+        Duration = 6; 
     })
 end
