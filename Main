@@ -12,8 +12,9 @@ elseif placeId == 17306807164 then
    -- tha bronx script 
 elseif placeId == 9874911474 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Tha-Bronx-2/refs/heads/main/Tha%20Bronx%20chatgpt%20ahh%20code"))()
+-- bronx wars script
     elseif placeId == 117644961475597 then 
-print("test")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Bronx-wars-ni/refs/heads/main/Bronxbronx"))()
 else
     
     game.StarterGui:SetCore("SendNotification", {
