@@ -16,7 +16,7 @@ elseif placeId == 9874911474 then
     elseif placeId == 117644961475597 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Bronx-wars-ni/refs/heads/main/Bronxbronx"))()
 elseif placeId == 14915636503 then 
-print("1")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/South-Side-chicago/refs/heads/main/Goofy"))()
 else
     
     game.StarterGui:SetCore("SendNotification", {
