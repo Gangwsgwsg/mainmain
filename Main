@@ -12,7 +12,8 @@ elseif placeId == 17306807164 then
    -- tha bronx script 
 elseif placeId == 9874911474 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Tha-Bronx-2/refs/heads/main/Tha%20Bronx%20chatgpt%20ahh%20code"))()
-    
+    elseif placeId == 000 then 
+print("test")
 else
     
     game.StarterGui:SetCore("SendNotification", {
