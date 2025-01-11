@@ -15,6 +15,8 @@ elseif placeId == 9874911474 then
 -- bronx wars script
     elseif placeId == 117644961475597 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Bronx-wars-ni/refs/heads/main/Bronxbronx"))()
+elseif placeId == 000 then 
+print("1")
 else
     
     game.StarterGui:SetCore("SendNotification", {
