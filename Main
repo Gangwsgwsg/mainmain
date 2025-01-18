@@ -17,7 +17,7 @@ elseif placeId == 9874911474 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Bronx-wars-ni/refs/heads/main/Bronxbronx"))()
 elseif placeId == 14915636503 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/South-Side-chicago/refs/heads/main/Goofy"))()
-elseif placeId == 00 then 
+elseif placeId == 17520451856 then 
 print("test")
 else
     
