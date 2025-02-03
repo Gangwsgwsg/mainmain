@@ -21,7 +21,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/South-Side
 -- life in philly 
 elseif placeId == 17520451856 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Life-in-gay/refs/heads/main/Philly"))()
--- uh forgot
+-- EngleWood Chicago
 elseif placeId == 87455406242639 then
 print("test")
 else
