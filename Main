@@ -13,7 +13,7 @@ elseif placeId == 17306807164 then
 elseif placeId == 9874911474 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Tha-Bronx-2/refs/heads/main/Tha%20Bronx%20chatgpt%20ahh%20code"))()
 -- bronx wars script
-    elseif placeId == 117644961475597 then 
+    elseif placeId == 109351086711827 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Bronx-wars-ni/refs/heads/main/Bronxbronx"))()
 -- South side Chicago
 elseif placeId == 14915636503 then 
