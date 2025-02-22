@@ -26,8 +26,8 @@ elseif placeId == 87455406242639 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Englewood-chocko/refs/heads/main/Chicago"))()
 elseif placeId == 12077443856 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gangwsgwsg/Cali-shoot-ops/refs/heads/main/I%20See%20opps")
+
 else
-    
     game.StarterGui:SetCore("SendNotification", {
         Title = "Game Check";
         Text = "unsupported Game";
